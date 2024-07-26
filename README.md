@@ -1,13 +1,4 @@
 ## Python Script for simplfying data in WFP CSV data
-# Steps 
-1. Save python script as file on computer
-2. Ensure python is installed on computer
-3. Open Terminal / CMD
-4. Run
-
-```markdown
-Python file.py input.csv output.csvm
-```
 
 Usage
 
